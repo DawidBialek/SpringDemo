@@ -1,3 +1,3 @@
 # SpringDemo
  
-Simple spring app from spring.io quick start guide
+Simple spring app from spring.io quick start guide.
